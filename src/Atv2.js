@@ -1,4 +1,3 @@
-// eslint-disable-next-line 
 import { useSate } from 'react';
 
 export default function Atv2() {
