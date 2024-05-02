@@ -1,4 +1,5 @@
 import { useSate } from 'react';
+CI = false
 
 export default function Atv2() {
   return (
